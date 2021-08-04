@@ -4,7 +4,7 @@
 
 - 🔭 Hoje Traabalhando como Analista de Suporte
 - 🌱 Estudando Desenvolvimento de aplicações mobile cross-platform em Flutter
-- 📫 Contate-me no e-mail: cristhianbonetti@gmail.com
+- 📫 Contate-me no e-mail: contatocristianobonetti@gmail.com
 
  <div>
   <a href="https://github.com/Cristhianbonetti">

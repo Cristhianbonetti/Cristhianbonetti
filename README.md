@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Hoje Traabalhando como Analista de Suporte
+- 🔭 Hoje Traabalhando como Consultor de Sucesso do Cliente
 - 🌱 Estudando Desenvolvimento de aplicações mobile cross-platform em Flutter
 - 📫 Contate-me no e-mail: contatocristianobonetti@gmail.com
 

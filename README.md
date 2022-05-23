@@ -2,9 +2,9 @@
 
 
 
-- 🔭 Hoje Traabalhando como Consultor de Sucesso do Cliente
+- 🔭 Mobile Developer Jr na eMotion Studios
 - 🌱 Estudando Desenvolvimento de aplicações mobile cross-platform em Flutter
-- 📫 Contate-me no e-mail: contatocristianobonetti@gmail.com
+- 📫 Contate-me no e-mail: cristhianbonetti@gmail.com
 
  <div>
   <a href="https://github.com/Cristhianbonetti">

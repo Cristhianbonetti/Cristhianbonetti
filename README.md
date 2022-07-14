@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Mobile Developer Jr na eMotion Studios
+- 🔭 Mobile Developer na eMotion Studios
 - 🌱 Estudando Desenvolvimento de aplicações mobile cross-platform em Flutter
 - 📫 Contate-me no e-mail: cristhianbonetti@gmail.com
 

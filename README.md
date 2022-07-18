@@ -3,7 +3,7 @@
 
 
 - 🔭 Mobile Developer na eMotion Studios
-- 🌱 Estudando Desenvolvimento de aplicações mobile cross-platform em Flutter
+- 🌱 Desenvolvedor Front-end de aplicações mobile cross-platform em Flutter
 - 📫 Contate-me no e-mail: cristhianbonetti@gmail.com
 
  <div>

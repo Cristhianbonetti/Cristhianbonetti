@@ -5,6 +5,7 @@
 - 🔭 Mobile Developer na eMotion Studios
 - 🌱 Desenvolvedor Front-end de aplicações mobile cross-platform em Flutter
 - 📫 Contate-me no e-mail: cristhianbonetti@gmail.com
+- 📱 (45) 9 9951-9564
 
  <div>
   <a href="https://github.com/Cristhianbonetti">
